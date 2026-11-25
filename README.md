@@ -1,13 +1,7 @@
 # CIE 2 – Activity 1: Multiple Linear Regression on California Housing
 
-**Course:** Regression and Classification Algorithms · T.Y. B.Tech AI & DS · Semester V · 2026–27
-**Student:** [Your Name] · **Roll No.:** [Your Roll No.]
-**Submission GitHub ID:** [https://github.com/complexiota](https://github.com/complexiota)
-
-> Suggested repository name: `CIE2-Activity1-Multiple-Linear-Regression-<ROLLNO>` (public).
-
 ## 1. What this activity is about
-Take the role of a data analyst at a real-estate advisory firm and **explain and forecast the median house value of a neighbourhood** from several census features at once. The work follows the activity sheet: manual least-squares calculation, library models, single- vs multiple-feature comparison, coefficient interpretation, multicollinearity (VIF), residual analysis, a new prediction, a decision log and a limitations/ethics note.
+Take the role of a data analyst at a real-estate advisory firm and **explain and forecast the median house value of a neighbourhood** from several census features at once. 
 
 ## 2. Dataset
 | | |
