@@ -77,5 +77,7 @@ Run all cells top to bottom (fixed random seed 42). Tested with Python 3.12, sci
 
 
 
-## Author
+## Author and Acknowlegement 
 Built by [@DevyaniDhokrat](https://github.com/Devyani006).
+
+Faculty Reference [@complexiota](https://github.com/complexiota).
