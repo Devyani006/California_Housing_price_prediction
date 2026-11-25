@@ -78,4 +78,4 @@ Run all cells top to bottom (fixed random seed 42). Tested with Python 3.12, sci
 
 
 ## Author
-Built by [@DevyaniDhokrat](github.com/Devyani006).
+Built by [@DevyaniDhokrat](https://github.com/Devyani006).
