@@ -75,16 +75,7 @@ Run all cells top to bottom (fixed random seed 42). Tested with Python 3.12, sci
 └── requirements.txt
 ```
 
-## Limitations and responsible use
-Do not use this to price a house today, to value the most expensive neighbourhoods, or to judge a single property. Coefficients describe association, not cause. Used for lending or investment, neighbourhood-level models can reproduce historical inequalities, so any real use needs human review and current data.
 
-## Roadmap
-- [ ] Ridge and Lasso regression, and a log-transformed target
-- [ ] Ocean proximity, distance to coast and distance to major cities
-- [ ] Random forest and gradient boosting versus this linear baseline
-- [ ] Proper handling of the censored \$500k cap
-- [ ] Spatial cross-validation (hold out whole regions)
-- [ ] Small Streamlit app returning a value with an error range
 
 ## Author
-Built by [@complexiota](https://github.com/complexiota).
+Built by [@DevyaniDhokrat](github.com/Devyani006).
